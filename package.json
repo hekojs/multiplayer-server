@@ -20,7 +20,7 @@
     "@colyseus/schema": "^0.5.39",
     "colyseus": "^0.13.7",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-basic-auth": "^1.2.0",
     "lodash": "^4.17.15"
   },
